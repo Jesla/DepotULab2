@@ -122,6 +122,16 @@ a {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
+textarea {
+  background-color: white;
+  margin-top: 5px;
+  width: 350px;
+  height: 100px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  font-size: 18px;
+}
 .send-button {
   background-color: white;
   margin-top: 5px;
